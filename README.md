@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/terryh/goisbn.svg?branch=master)](https://travis-ci.org/terryh/goisbn)
+
 goisbn: a go library for parsing ISBN
 =====================================
 
