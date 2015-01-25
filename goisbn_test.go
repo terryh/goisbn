@@ -246,7 +246,7 @@ func Test(t *testing.T) {
 		"What Are the Chances?: Voodoo Deaths, Office Gossip and Other Adventures in Probability": "0-8018-6941-2",
 		"Without Remorse":                        "0-00-647641-4",
 		"Wizard: Life and Times of Nikola Tesla": "0-8065-1960-6",
-		"Zero History":                           "978-0-670-91952-9"}
+		"Zero History":                           "9780670919529"}
 
 	// ToISBN
 	for _, val := range tests {
