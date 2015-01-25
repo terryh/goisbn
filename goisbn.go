@@ -121,10 +121,7 @@ func ToISBN(isbn string) (ISBN, error) {
 		return toisbn, err
 	}
 
-	if isbn != isn {
-		toisbn = ISBN(isn)
-	}
-
+	toisbn = ISBN(isn)
 	isbnLen := len(isn)
 
 	// ISBN 10
